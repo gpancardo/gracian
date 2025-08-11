@@ -1,0 +1,188 @@
+OUTLET,COUNTRY,REGION,OWNERSHIP,LINK,STATUS,PARSER_FILE
+El Periódico,España,Europa,Privado,https://www.elperiodico.com/es/rss/,QWERY,ASDF
+Noticias ONU Español,Internacional,Global,Público,https://news.un.org/es/feed/qa.xml,QWERY,ASDF
+El Financiero,México,América Latina,Privado,https://www.elfinanciero.com.mx/rss/,QWERY,ASDF
+Telesur Noticias,Internacional,Latinoamérica,Público,https://www.telesurtv.net/rss.xml,QWERY,ASDF
+Prensa Latina Internacional,Internacional,Global,Público,https://www.prensa-latina.cu/rss/,QWERY,ASDF
+DW News Español,Alemania,Europa,Público,https://rss.dw.com/xml/DW-Noticias-S?format=rss,QWERY,ASDF
+France24 América Latina,Francia,Europa,Público,https://www.france24.com/es/rss/,QWERY,ASDF
+Revista Semana,Colombia,América Latina,Privado,https://www.semana.com/rss/,QWERY,ASDF
+La Nueva España,España,Europa,Privado,https://www.lne.es/rss/,QWERY,ASDF
+HispanTV Irán,MENA,MENA,Público,https://www.hispantv.com/rss,QWERY,ASDF
+Asia News,Múltiple - Asia,Asia,Privado,https://www.asianews.it/rss-feed,QWERY,ASDF
+Oceanía Noticias,Oceanía,Oceanía,Privado,https://oceanianoticias.com/rss/,QWERY,ASDF
+Radio Australia en Español,Australia,Oceanía,Público,https://www.radioaustralia.net.au/rss/,QWERY,ASDF
+Xinhua Español,China,Asia,Público,https://www.xinhuanet.com/english/rss/worldrss.xml,QWERY,ASDF
+China Daily Español,China,Asia,Público,https://spanish.chinadaily.com.cn/rss.xml,QWERY,ASDF
+CCTV Español,China,Asia,Público,https://www.cgtn.com/rss/esp.xml,QWERY,ASDF
+Al Mayadeen Español,Líbano,MENA,Privado,https://es.almayadeen.net/rss,QWERY,ASDF
+Middle East Eye Español,MENA,MENA,Privado,https://www.middleeasteye.net/es/rss,QWERY,ASDF
+Gulf News Español,EAU,MENA,Privado,https://gulfnews.com/rss/section/spain,QWERY,ASDF
+Arab News Español,Arabia Saudita,MENA,Privado,https://arabnews.com/rss/espanol,QWERY,ASDF
+Maghreb Spanish News,Marruecos,MENA,Privado,https://maghrebspanishnews.com/rss,QWERY,ASDF
+Sahel Post Español,Múltiple - Sahel,África,Privado,https://sahelpost.com/rss-espanol,QWERY,ASDF
+Sahel Times Español,Múltiple - Sahel,África,Público,https://saheltimes.com/rss-es,QWERY,ASDF
+Africa News Español,Múltiple - África,África,Privado,https://www.africanews.com/rss-feed/?lang=es,QWERY,ASDF
+Global Times Español,China,Asia,Privado,https://www.globaltimes.cn/RSS/GT-esp.xml,QWERY,ASDF
+CGTN América Latina,China,Asia,Público,https://america.cgtn.com/rss/esp.xml,QWERY,ASDF
+Al Jazeera Español,Qatar,MENA,Público,https://www.aljazeera.com/xml/rss/all.xml,QWERY,ASDF
+Kuwait News Agency Español,Kuwait,MENA,Público,https://www.kuna.net.kw/rss_feed_es,QWERY,ASDF
+Sudáfrica Hoy Español, Sudáfrica,África,Privado,https://sudafricahoy.com/rss,QWERY,ASDF
+Agence Ecofin Español,Múltiple - África Occidental,África,Público,https://www.agenceecofin.com/rss/esp,QWERY,ASDF
+Radio Francia Internacional (RFI) África en Español,África,África,Público,https://www.rfi.fr/es/rss/,QWERY,ASDF
+Vietnam News Español,Vietnam,ASEAN,Público,https://vnanet.vn/rss/espanol,QWERY,ASDF
+The Jakarta Post Español,Indonesia,ASEAN,Privado,https://www.thejakartapost.com/rss/espanol,QWERY,ASDF
+Philippine News Español,Filipinas,ASEAN,Privado,https://philippinenews.com/rss/espanol,QWERY,ASDF
+Malaysia Kini Español,Malasia,ASEAN,Privado,https://malaysiakini.com/rss/espanol,QWERY,ASDF
+Bangkok Post Español,Tailandia,ASEAN,Privado,https://bangkokpost.com/rss/espanol,QWERY,ASDF
+Singapore News Español,Singapur,ASEAN,Privado,https://singaporenews.com/rss/espanol,QWERY,ASDF
+Myanmar Times Español,Myanmar,ASEAN,Privado,https://myanmartimes.com/rss/espanol,QWERY,ASDF
+La Jornada,México,América Latina,Privado,https://www.jornada.com.mx/rss/,QWERY,ASDF
+El País,España,Europa,Privado,https://elpais.com/rss/,QWERY,ASDF
+ABC España,España,Europa,Privado,https://www.abc.es/rss/feeds/abcPortada.xml,QWERY,ASDF
+La Voz de América Español,Internacional,Global,Público,https://www.voanoticias.com/api/zmgxml?format=xml,QWERY,ASDF
+Efe Noticias,España,Europa,Público,https://www.efe.com/efe/espana/rss,QWERY,ASDF
+Canal Sur,España,Europa,Público,https://www.canalsur.es/rss,QWERY,ASDF
+El Comercio,Perú,América Latina,Privado,https://elcomercio.pe/rss/,QWERY,ASDF
+La Tercera,Chile,América Latina,Privado,https://www.latercera.com/rss/,QWERY,ASDF
+Clarín,Argentina,América Latina,Privado,https://www.clarin.com/rss/,QWERY,ASDF
+El Universal,Venezuela,América Latina,Privado,https://www.eluniversal.com/rss/,QWERY,ASDF
+Últimas Noticias,Venezuela,América Latina,Privado,https://ultimasnoticias.com.ve/rss/,QWERY,ASDF
+El Mercurio,Chile,América Latina,Privado,https://www.elmercurio.com/rss/,QWERY,ASDF
+La Nación,Argentina,América Latina,Privado,https://www.lanacion.com.ar/rss/,QWERY,ASDF
+El Mundo,España,Europa,Privado,https://www.elmundo.es/rss/,QWERY,ASDF
+El Confidencial,España,Europa,Privado,https://rss.elconfidencial.com/,QWERY,ASDF
+Página 12,Argentina,América Latina,Privado,https://www.pagina12.com.ar/rss/,QWERY,ASDF
+Sputnik Mundo,Rusia,Rusia,Público,https://mundo.sputniknews.com/export/rss2/archive/index.xml,QWERY,ASDF
+Actualidad RT,Rusia,Rusia,Público,https://actualidad.rt.com/rss,QWERY,ASDF
+La Razón,España,Europa,Privado,https://www.larazon.es/rss/,QWERY,ASDF
+El Diario,España,Europa,Privado,https://www.eldiario.es/rss/,QWERY,ASDF
+El Tiempo,Colombia,América Latina,Privado,https://www.eltiempo.com/rss/,QWERY,ASDF
+Infobae,Argentina,América Latina,Privado,https://www.infobae.com/feeds/rss.xml,QWERY,ASDF
+El Nacional,República Dominicana,América Latina,Privado,https://elnacional.com.do/feed/,QWERY,ASDF
+El Financiero Costa Rica,Costa Rica,América Latina,Privado,https://www.elfinancierocr.com/rss/,QWERY,ASDF
+Televisión Nacional de Chile,Chile,América Latina,Público,https://www.tvn.cl/rss/,QWERY,ASDF
+EFE América Latina,España,América Latina,Público,https://www.efe.com/efe/america/rss,QWERY,ASDF
+La Jornada Maya,México,América Latina,Privado,https://www.lajornadamaya.mx/rss/,QWERY,ASDF
+Tunisian News Español,Túnez,África,Público,https://tunisianness.com/rss-es,QWERY,ASDF
+Libya Herald Español,Libia,África,Privado,https://libyaherald.com/rss/es,QWERY,ASDF
+Morocco World News Español,Marruecos,África,Privado,https://www.moroccoworldnews.com/rss-feeds/,QWERY,ASDF
+Algeria Times Español,Argelia,África,Privado,https://algeriatimes.com/rss/es,QWERY,ASDF
+Tunisia Live Español,Túnez,África,Privado,https://www.tunisialive.net/feed/,QWERY,ASDF
+Egypt Today Español,Egipto,África,Privado,https://www.egypttoday.com/rss,QWERY,ASDF
+Sudan Tribune Español,Sudán,África,Privado,https://www.sudantribune.com/rss,QWERY,ASDF
+The Africa Report Español,MúltipleÁfrica,África,Privado,https://www.theafricareport.com/rss-feed/?lang=es,QWERY,ASDF
+The East African Español,Múltiple - África Oriental,África,Privado,https://www.theeastafrican.co.ke/rss,QWERY,ASDF
+Euronews Español,UE,Europa,Público,https://espanol.euronews.com/rss,QWERY,ASDF
+Le Monde,Francia,Europa,Privado,https://www.lemonde.fr/rss/une.xml,QWERY,ASDF
+France Info,Francia,Europa,Público,https://www.francetvinfo.fr/titres.rss,QWERY,ASDF
+TASS,Rusia,Rusia,Público,https://tass.com/rss/v2.xml,QWERY,ASDF
+BBC Mundo,Reino Unido,Europa,Público,https://www.bbc.com/mundo/index.xml,QWERY,ASDF
+The Guardian Español,Reino Unido,Europa,Privado,https://www.theguardian.com/world/spanish/rss,QWERY,ASDF
+Al Arabiya Español,Arabia Saudita,MENA,Privado,https://english.alarabiya.net/.mrss/arabiya/spanish,QWERY,ASDF
+Asharq Al-Awsat Español,MENA,MENA,Privado,https://english.aawsat.com/rss-feed-espanol,QWERY,ASDF
+Sahara Press Service,Sáhara Occidental,África,Público,https://www.spsrasd.info/rss/,QWERY,ASDF
+El Nacional,Venezuela,América Latina,Privado,https://www.elnacional.com/rss/,QWERY,ASDF
+El País Uruguay,Uruguay,América Latina,Privado,https://www.elpais.com.uy/rss/,QWERY,ASDF
+La Prensa,Paraguay,América Latina,Privado,https://www.laprensa.com.py/rss/,QWERY,ASDF
+La Estrella de Panamá,Panamá,América Latina,Privado,https://www.laestrella.com.pa/rss/,QWERY,ASDF
+La Tribuna,Honduras,América Latina,Privado,https://www.latribuna.hn/rss/,QWERY,ASDF
+La República,Perú,Latinoamérica,Medio,https://larepublica.pe/rss/,,
+Página/12,Argentina,Latinoamérica,Medio,https://www.pagina12.com.ar/rss,, 
+El Mercurio,Chile,Latinoamérica,Medio,https://www.emol.com/rss/,,
+CNN en Español,Institucional Internacional,Global,Medio,https://cnnespanol.cnn.com/feed/,,
+Associated Press en Español,Institucional Internacional,Global,Medio,https://apnews.com/hub/ap-news,, 
+Voice of America en Español,Institucional Internacional,Global,Medio,https://www.voanoticias.com/api/zmg/sections.xml,, 
+El Economista,España,Europa,Medio Especializado,https://www.eleconomista.es/rss/,,
+Expansión,España,Europa,Medio Especializado,https://www.expansion.com/rss/,,
+Xataka,España,Europa,Medio Especializado,https://www.xataka.com/rss/,,
+Animal Político,México,Latinoamérica,Medio Especializado,https://www.animalpolitico.com/rss,, 
+AllAfrica en Español,Múltiple África,África,Agregador Regional,https://es.allafrica.com/rss/,,
+ONU Noticias,Institucional Internacional,Global,Institucional,https://news.un.org/feed/subscribe/en/news/all/rss.xml,,
+FMI Noticias,Institucional Internacional,Global,Institucional,https://www.imf.org/en/News/feeds/rss,,
+Banco Mundial Noticias,Internacional,Global,Institucional,https://www.worldbank.org/en/news/rss,,
+OPS Noticias,Internacional,Global,Institucional,https://www.paho.org/en/rss/news.xml,,
+Unicef Noticias,Internacional,Global,Institucional,https://www.unicef.org/media/rss.xml,,
+UNESCO Noticias,Internacional,Global,Institucional,https://en.unesco.org/news/rss.xml,,
+FAO Noticias,Internacional,Global,Institucional,https://www.fao.org/news/rss/es/,,
+OIT Noticias,Internacional,Global,Institucional,https://www.ilo.org/global/es/rss.xml,,
+OEI Noticias,Internacional,Europa,Institucional,https://www.oei.es/rss,,
+Organización Mundial de la Salud Noticias,Internacional,Global,Institucional,https://www.who.int/es/news/rss,,
+Banco Interamericano de Desarrollo Noticias,Internacional,América Latina,Institucional,https://www.iadb.org/es/rss.xml,,
+Comisión Económica para América Latina y el Caribe (CEPAL) Noticias,Internacional,América Latina,Institucional,https://www.cepal.org/es/rss.xml,,
+Comisión Europea Noticias,Internacional,Europa,Institucional,https://ec.europa.eu/info/news/rss_es.xml,,
+La Vanguardia,España,Europa,Privado,https://www.lavanguardia.com/mvc/feed/rss/home,QWERY,ASDF
+El Comercio Ecuador,Ecuador,América Latina,Privado,https://www.elcomercio.com/rss/,QWERY,ASDF
+Reuters Español,Internacional,Global,Privado,https://www.reuters.com/rssFeed/topNews,QWERY,ASDF
+CNN Español,Estados Unidos,Global,Privado,https://cnnespanol.cnn.com/feed/rss/,QWERY,ASDF
+Bloomberg Español,Estados Unidos,Global,Privado,https://www.bloomberg.com/feeds/podcasts/spain.xml,QWERY,ASDF
+El País América,España,Global,Privado,https://elpais.com/rss/america/,QWERY,ASDF
+Televisión Pública Argentina,Argentina,América Latina,Público,https://www.tvpublica.com.ar/rss/,QWERY,ASDF
+ABC News Español,Estados Unidos,América,Público,https://abcnews.go.com/abcnews/internationalheadlines, QWERY,ASDF
+USA Today Español,Estados Unidos,América,Privado,https://www.usatoday.com/rss/,QWERY,ASDF
+Fox News Español,Estados Unidos,América,Privado,https://www.foxnews.com/rss/,QWERY,ASDF
+NPR Español,Estados Unidos,América,Público,https://www.npr.org/rss/,QWERY,ASDF
+The New York Times Español,Estados Unidos,América,Privado,https://rss.nytimes.com/services/xml/rss/nyt/Spanish.xml,QWERY,ASDF
+Wall Street Journal Español,Estados Unidos,América,Privado,https://www.wsj.com/xml/rss/3_7085.xml,QWERY,ASDF
+The Washington Post Español,Estados Unidos,América,Privado,https://www.washingtonpost.com/rss/rss_es.xml,QWERY,ASDF
+Al Arabiya Español,Arabia Saudita,MENA,Público,https://english.alarabiya.net/rss/QWERY,ASDF,
+RT Español,Rusia,Rusia,Estatal,https://actualidad.rt.com,Activo,parser_rt.py
+Russia Today Español,Rusia,Europa,Estatal,https://actualidad.rt.com/latinoamerica,Activo,parser_rt_latam.py
+China Global Television Network Español,China,Asia,Estatal,https://spanish.cgtn.com,Activo,parser_cgtn.py
+Xinhua Español,China,Asia,Estatal,http://spanish.xinhuanet.com,Activo,parser_xinhua.py
+Global Times Español,China,Asia,Estatal,https://www.globaltimes.cn/section/102/26-1.html,Activo,parser_globaltimes.py
+China Daily Español,China,Asia,Estatal,https://www.chinadaily.com.cn/spanish,Activo,parser_chinadaily.py
+Agencia Anadolu – Español,Turquía,Eurasia / MENA,Público,https://www.aa.com.tr/es/turkiye,activo,anadolu_turquia.xml
+CNN en Español,Estados Unidos,América del Norte,Público,https://cnnespanol.cnn.com/feed,activo,cnn_es.xml
+Univisión Noticias,Estados Unidos,América del Norte,Privado,https://www.univision.com/rss,activo,univision.xml
+Xinhua Español,China,Asia / Global,Público,https://spanish.news.cn/rss/rss.xml,activo,xinhua_china.xml
+China.org.cn – Internacional,China,Asia / Global,Público,https://spanish.china.org.cn/rss/7040142.xml,activo,chinaorg_internacional.xml
+CRI Español – Mundo,China,Asia / Global,Público,http://espanol.cri.cn/rss/World.xml,activo,cri_china.xml
+Agencia Anadolu – Español,Turquía,Eurasia / MENA,Público,https://www.aa.com.tr/es/rss/default?cat=turkiye,activo,anadolu_turquia.xml
+TRT Español – Mundo,Turquía,Eurasia / MENA,Público,https://www.trt.net.tr/es/rss,activo,trt_turquia.xml
+CNN en Español,Estados Unidos,América del Norte/Global,Privado,https://cnnespanol.cnn.com/feed,activo,cnn_es.xml
+Univisión Noticias,Estados Unidos,América del Norte/Latinoamérica,Privado,https://www.univision.com/rss,activo,univision.xml
+VOA Noticias,Estados Unidos,América del Norte,Público,https://www.vozdeamerica.com/rss,activo,voa_es.xml
+Telemundo Noticias,Estados Unidos,América del Norte/,Privado,https://www.telemundo.com/rss,activo,telemundo.xml
+El Correo del Golfo,Emiratos Árabes Unidos,MENA/Global,Privado,https://www.elcorreodelgolfo.com/rss,,
+Global Times Español,China,Asia / Global,Público,https://espanol.globaltimes.cn/rss,,
+CGTN Español – Internacional,China,Asia / Global,Público,https://espanol.cgtn.com/rss,,
+Asia Times Español,Hong Kong,Asia / Global,Privado,https://asiatimes.com/feed/?lang=es,,
+Daily Sabah Español,Turquía,Eurasia / MENA,Privado,https://www.dailysabah.com/rss/es,,
+Star Türkiye Español,Turquía,Eurasia / MENA,Público,https://www.star.com.tr/rss/rss.asp?tip=es,,
+Hispan TV – Internacional,Irán,MENA/Global,Público,https://www.hispantv.com/rss,,
+The North Africa Post Español,Marruecos,África del Norte/Global,Privado,https://northafricapost.com/feed?lang=es,,
+El Moudjahid Español,Argelia,África del Norte/Global,Público,https://elmoudjahid.dz/es/rss,,
+Sudan Tribune Español,Sudán,África,Privado,https://www.sudantribune.com/spip.php?page=backend&lang=es,,
+AllAfrica Español,Sudáfrica,África,Privado,https://allafrica.com/tools/headlines/rdf/spanish/headlines.rdf,,
+Agencia ANGOP Español,Angola,África,Público,https://www.angop.ao/es/rss,,
+Kuwait News Agency Español,Kuwait,MENA/Global,Público,https://www.kuna.net.kw/rss.aspx?lang=es,,
+Petro Times Español,Vietnam,Asia / Global,Privado,https://petrotimes.vn/rss/es,,
+VNA Español (Vietnam News Agency),Vietnam,Asia / Global,Público,https://vnanet.vn/rss/es,,
+The Manila Times Español,Filipinas,Asia / Global,Privado,https://www.manilatimes.net/feed?lang=es,,
+The Jakarta Post Español,Indonesia,Asia / Global,Privado,https://www.thejakartapost.com/rss/espanol,,
+The Straits Times Español,Singapur,Asia / Global,Privado,https://www.straitstimes.com/rss/latest,,
+The Star Español,Malasia,Asia,Privado,https://www.thestar.com.my/rss,,
+Bangkok Post Español,Tailandia,Asia,Privado,https://www.bangkokpost.com/rss,,
+Myanmar Times Español,Myanmar,Asia,Privado,https://www.mmtimes.com/rss,,
+Vietnamnet Español,Vietnam,Asia,Privado,https://vietnamnet.vn/rss,,
+The Korea Herald Español,Corea del Sur,Asia / Global,Privado,https://www.koreaherald.com/rss,,
+The Korea Times Español,Corea del Sur,Asia / Global,Privado,https://www.koreatimes.co.kr/www/rss,,
+The Japan Times Español,Japón,Asia / Global,Privado,https://www.japantimes.co.jp/rss,,
+The Diplomat Español,Asia / Global,Asia /Global,Privado,https://thediplomat.com/feed/?lang=es,,
+Asia News Español,Asia / Global,Asia / Global,Privado,https://www.asianews.it/rss-feed,QWERY,ASDF
+People's Daily Español,China,Asia / Global,Público,https://spanish.peopledaily.com.cn/rss,,
+China Daily Español,China,Asia / Global,Público,https://www.chinadaily.com.cn/rss/es,,
+CRI Español (China Radio International),China,Asia / Global,Público,https://espanol.cri.cn/rss,,
+Anadolu Ajansı Español,Turquía,MENA,Público,https://www.aa.com.tr/es/rss,,
+Hürriyet Español,Turquía,MENA,Privado,https://www.hurriyet.com.tr/rss?lang=es,,
+Kazinform Español,Kazajistán,Asia Central,Público,https://www.inform.kz/rss/es,,
+UzDaily Español,Uzbekistán,Asia Central,Privado,https://www.uzdaily.uz/rss?lang=es,,
+Caribbean News Digital,Cuba,Caribe,Privado,https://www.caribbeannewsdigital.com/rss,,
+Jamaica Observer Español,Jamaica,Caribe,Privado,https://www.jamaicaobserver.com/feed?lang=es,,
+Loop News Caribbean Español,Trinidad y Tobago,Caribe,Privado,https://tt.loopnews.com/rss?lang=es,,
+Agencia PANA (Pan African News Agency) Español,Senegal,África,Público,https://www.panapress.com/rss?lang=es,,
+Agencia de Noticias de Nigeria Español,Nigeria,África,Público,https://nannews.ng/feed?lang=es,,
+The East African Español,Kenya,África,Privado,https://www.theeastafrican.co.ke/rss?lang=es,,
+Egypt Independent Español,Egipto,África del Norte/Global,Privado,https://www.egyptindependent.com/feed?lang=es,,
+Al-Ahram Español,Egipto,África del Norte/Global,Público,https://spanish.ahram.org.eg/rss,,
